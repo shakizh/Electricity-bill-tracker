@@ -1,2 +1,2 @@
-# Elictricity bill tracker
+# Electricity bill tracker
 Track and manage electricity bills.
